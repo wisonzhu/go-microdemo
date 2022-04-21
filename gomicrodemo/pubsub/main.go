@@ -6,7 +6,7 @@ import (
 	"github.com/asim/go-micro/v3/metadata"
 	"github.com/asim/go-micro/v3/server"
 	"github.com/asim/go-micro/v3/util/log"
-	proto "go-micro-examples/pubsub/proto"
+	proto "gomicrodemo/pubsub/proto"
 )
 
 // Sub All methods of Sub will be executed when

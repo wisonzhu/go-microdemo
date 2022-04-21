@@ -6,7 +6,7 @@ import (
 	"github.com/asim/go-micro/v3"
 	"github.com/asim/go-micro/v3/util/log"
 	"github.com/pborman/uuid"
-	proto "go-micro-examples/pubsub/proto"
+	proto "gomicrodemo/pubsub/proto"
 	"time"
 )
 

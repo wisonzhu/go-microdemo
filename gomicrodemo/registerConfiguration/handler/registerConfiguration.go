@@ -5,7 +5,7 @@ import (
 
 	log "github.com/micro/micro/v3/service/logger"
 
-	pb "go-micro-examples/registerConfiguration/proto"
+	pb "gomicrodemo/registerConfiguration/proto"
 )
 
 type RegisterConfiguration struct{}

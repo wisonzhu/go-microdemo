@@ -5,9 +5,9 @@ import (
 	"github.com/asim/go-micro/v3"
 	"github.com/asim/go-micro/v3/logger"
 	"github.com/asim/go-micro/v3/registry"
-	"go-micro-examples/registerConfiguration/config"
-	"go-micro-examples/registerConfiguration/handler"
-	pb "go-micro-examples/registerConfiguration/proto"
+	"gomicrodemo/registerConfiguration/config"
+	"gomicrodemo/registerConfiguration/handler"
+	pb "gomicrodemo/registerConfiguration/proto"
 )
 
 func main() {
